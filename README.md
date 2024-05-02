@@ -1,5 +1,7 @@
 Guia de Cibersegurança para as Instituições de Ensino
 
+Download: https://github.com/filbag/Ciberseguranca--Guia-de-Boas-Praticas/blob/c9843658eb2b344be546607c4f8519ac57be3498/Ciberseguranca_Guia-BoasPraticas_ESCOLAS_signed.pdf
+
 Este guia de cibersegurança para as instituições de ensino disponibiliza informações e recomendações para auxiliar os Agrupamentos de Escolas (AE) e Escolas Não Agrupadas (ENA) de Portugal Continental a protegerem-se no ciberespaço. O guia tem como público-alvo os responsáveis pelas Tecnologias de Informação e Comunicação (TIC) e está dividido em cinco secções. Na primeira secção, são abordados temas gerais da cibersegurança e os principais aspetos que a constituem, tais como os tipos de ataques e os seus impactos. Na segunda secção, o guia apresenta o estado atual da cibersegurança na educação. A terceira secção aborda a legislação e regulamentos em vigor no âmbito da segurança da informação, bem como as normas mais relevantes de cibersegurança. Na quarta secção, são elencadas algumas das recomendações e boas práticas de cibersegurança. Finalmente, são apresentadas as contribuições sobre o tema e as conclusões.
 
 Palavras-chave: Cibersegurança, segurança cibernética, ciberataques, ataques cibernéticos, ciberespaço, espaço cibernético, proteção de dados, governança, proteção de ativos, educação, instituições de ensino, agrupamentos de escolas, escolas não agrupadas, sistemas de informação, tecnologia da informação, segurança da informação, segurança de TI.
